@@ -1,0 +1,22 @@
+iframe{
+   width: 100%;
+}
+travel_maindiv img{
+    width:60%;
+}
+.travel_maindiv hr{
+    width:230px;
+}
+.news_li{
+    margin-top: 13px;
+}
+.news_li h4{
+  border-bottom: 1px solid white;
+    padding:8px;
+}
+.news_li img{
+   border-radius:25px; 
+}
+.news_li p{
+    margin-top: 10px;
+}
